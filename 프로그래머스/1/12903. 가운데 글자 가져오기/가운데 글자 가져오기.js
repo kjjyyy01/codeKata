@@ -9,5 +9,5 @@ function solution(s) {
     
     return answer;
 }
-console.log("abcde")
-console.log("qwer")
+console.log(solution("abcde"));
+console.log(solution("qwer"));
