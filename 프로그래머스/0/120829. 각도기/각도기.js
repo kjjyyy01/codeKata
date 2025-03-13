@@ -13,6 +13,3 @@ function solution(angle) {
     
     return answer;
 }
-console.log(solution(70));
-console.log(solution(91));
-console.log(solution(180));
