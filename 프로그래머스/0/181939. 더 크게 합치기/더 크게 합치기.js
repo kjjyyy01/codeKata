@@ -6,3 +6,7 @@ function solution(a, b) {
     
     return answer = ab >= ba ? ab : ba;
 }
+
+// function solution(a, b) {
+//     return Math.max(Number(`${a}${b}`), Number(`${b}${a}`))
+// }
